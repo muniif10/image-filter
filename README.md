@@ -1,0 +1,1 @@
+Made in 2 hours for filtering images manually with Python GUI's library TK.
